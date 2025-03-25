@@ -92,6 +92,8 @@ Me chamo João Victor, tenho 21 anos e sou natural de João Pessoa. Concluí o e
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <div align="center">
@@ -108,3 +110,4 @@ Me chamo João Victor, tenho 21 anos e sou natural de João Pessoa. Concluí o e
   />
 </div>
 
+---

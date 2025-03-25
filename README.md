@@ -9,7 +9,7 @@ Me chamo João Victor, tenho 21 anos e sou natural de João Pessoa. Concluí o e
         <img 
             alt="Instagram" 
             title="Siga-me"
-            src="https://cdn-icons-png.freepik.com/256/2111/2111463.png?semt=ais_hybrid"
+            src="https://img.icons8.com/?size=48&id=32323&format=png"
         />
     </a> 
     <a href="https://www.linkedin.com/in/joão-victor-farias-cruz-ba16b8248/">

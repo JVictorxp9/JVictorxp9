@@ -22,7 +22,7 @@ Me chamo João Victor, tenho 21 anos e sou natural de João Pessoa. Concluí o e
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖⚛ Linguagens e Tecnologias
 
 <img 
     align="left" 

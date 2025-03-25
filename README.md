@@ -97,13 +97,14 @@ Me chamo João Victor, tenho 21 anos e sou natural de João Pessoa. Concluí o e
 <div align="center">
   <img 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=JVictorxp9&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   
   <img 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVictorxp9&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
+

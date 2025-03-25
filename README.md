@@ -2,21 +2,21 @@
 
 **`Desenvolvedor Junior`**
 
-João Victor Farias Cruz
-
 Me chamo João Victor, tenho 21 anos e sou natural de João Pessoa. Concluí o ensino médio no IFPB, com o curso técnico em Contabilidade. Atualmente, estou cursando Ciência da Computação na Uniesp. Sou apaixonado por tecnologia e compartilho meu conhecimento, projetos e atividades aqui.
 
 <p align="left">
     <a href="https://www.instagram.com/victorxp9/">
         <img 
             alt="Instagram" 
-            title="Siga-me" 
+            title="Siga-me"
+            src="https://cdn-icons-png.freepik.com/256/2111/2111463.png?semt=ais_hybrid"
         />
     </a> 
     <a href="https://www.linkedin.com/in/joão-victor-farias-cruz-ba16b8248/">
         <img 
             alt="LinKedin" 
             title="Siga-me" 
+            src="https://img.icons8.com/?size=48&id=13930&format=png"
         />
 </p>
 

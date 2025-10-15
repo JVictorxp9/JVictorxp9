@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo João Victor, tenho 21 anos e sou natural de João Pessoa. Concluí o ensino médio no IFPB, com o curso técnico em Contabilidade. Atualmente, estou cursando Ciência da Computação na Uniesp. Sou apaixonado por tecnologia e compartilho meu conhecimento, projetos e atividades aqui.
+Me chamo João Victor, tenho 22 anos e sou natural de João Pessoa. Concluí o ensino médio no IFPB, com o curso técnico em Contabilidade. Atualmente, estou cursando Ciência da Computação na Uniesp. Sou apaixonado por tecnologia e compartilho meu conhecimento, projetos e atividades aqui.
 
 <p align="left">
     <a href="https://www.instagram.com/victorxp9/">
